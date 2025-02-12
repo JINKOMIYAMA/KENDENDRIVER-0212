@@ -95,6 +95,10 @@
     "tsx": "^4.7.1",
     "typescript": "^5.7.2",
     "typescript-eslint": "^8.0.1",
-    "vite": "^5.4.14"
+    "vite": "^5.4.14",
+    "@rollup/rollup-linux-x64-gnu": "4.6.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
